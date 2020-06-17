@@ -35,3 +35,5 @@ This app using tableView and mapView. As a database is Realm. You can use the ca
 
 ![](Screenshots/Отображение%20метки%20на%20карте.png?raw=true "Метка на карте")
 ![](Screenshots/Построения%20маршрута%20к%20месту.png?raw=true "Построение маршрута")
+
+Данное приложение было создано в ходе прохождения курсов на портале www.swiftbook.ru
